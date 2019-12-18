@@ -1,0 +1,32 @@
+
+div {
+    position: absolute;
+    margin-left: 30%;
+    padding: 10px;
+    background: grey;
+    color: aliceblue;
+    font-family: Arial;
+}
+
+b {
+    size: 14px;
+}
+
+input[type=button],[type=submit] {
+    background-color: black; /* Green */
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+td{
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+input {
+    border: none;
+}

@@ -1,0 +1,3 @@
+# Them, sua, xoa nhom se lam anh huong den cac du lieu duoc luu nhu: member, group, employee.
+How to fix? How to clean code? 
+#
